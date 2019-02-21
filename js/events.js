@@ -317,9 +317,9 @@ $(function() {
                 start  : '2018-12-25'
               },
               {
-                title  : 'Happy New Year Countdown',
-                start  : '2018-12-29'
-              },
+                title  : 'Wine & Food Pairing 6:00 pm -9:00 pm Elks Lodge',
+                start  : '2019-01-26'
+              },//End of January
 
               //January
               {
@@ -374,8 +374,99 @@ $(function() {
               {
                 title  : 'Wine & Food Pairing 6:00 pm -9:00 pm Elks Lodge',
                 start  : '2019-01-26'
+              },//End of January
+
+              //February 
+              {
+                title  : 'Oratorical Academy 9:00 am -12:00 pm (All) ',
+                start  : '2019-02-02',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-02-06',
+              },
+              {
+                title  : 'World Money Show, Orlando FL (High School only) Leave 6:00 pm',
+                start  : '2019-02-06',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-02-13',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-02-20',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-02-27',
               },
 
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-02-07',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-02-14',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-02-21',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-02-28',
+                },
+                {
+                  title  : 'Dougteen Summit Meeting',
+                  start  : '2019-02-28',
+                },
+                {
+                  title  : 'College tour to Full Sail University and Valencia State College, Orlando',
+                  start  : '2019-02-08',
+                },
+                {
+                  title  : 'Parent Academy Oasis Championship, Broken Sound, Boca 9:00 am - 11:00 am',
+                  start  : '2019-02-09',
+                },
+                {
+                  title  : 'World Money Show, Orlando FL Leave 5:30 p.m. Delray Beach Police Department',
+                  start  : '2019-02-09',
+                  end    : '2019-02-10'
+                },
+                {
+                  title  : 'Etiquette Academy (Boys) 6:00 pm - 7:00 pm',
+                  start  : '2019-02-15',
+                },
+                {
+                  title  : 'Etiquette Academy (Grils) 10:00 am - 11:00 am',
+                  start  : '2019-02-16',
+                },
+                {
+                  title  : 'Parent Academy',
+                  start  : '2019-02-16',
+                },
+                {
+                  title  : 'Elks Summer Camp meeting 5:00 pm - 7:00 pm City Hall',
+                  start  : '2019-02-18',
+                },
+                {
+                  title  : 'Food 4 Friends Meeting 6:00 pm - 7:00 pm DOZ SDA Church ',
+                  start  : '2019-02-18',
+                },
+                {
+                  title  : 'Golf Skills Development Camp 7:30 pm -12:30 pm Riviera Beach',
+                  start  : '2019-02-23',
+                },
+                {
+                  title  : 'Country & Western Night Delray Elks Dinner, 5:30 pm - 9:00 pm',
+                  start  : '2019-02-23',
+                },
+                {
+                  title  : 'Rainberry Woods Initiative (Let’s Hang Out)  4:00 pm -5:00 pm Rainberry Woods Pool',
+                  start  : '2019-02-24',
+                },
             ]
           });
 });
