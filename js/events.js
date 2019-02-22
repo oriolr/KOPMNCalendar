@@ -530,7 +530,65 @@ $(function() {
                 {
                   title  : 'Elkettes - Elks Lodge, 240 NE 4th Ave.',
                   start  : '2019-03-30',
+                }, //End of March
+                //April
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-04-03',
                 },
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-04-10',
+                },
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-04-17',
+                },
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-04-24',
+                },
+                {
+                  title  : 'Oratorical Academy 9:00 am -12:00 pm Elks Lodge, 240 NE 4th Ave.  ',
+                  start  : '2019-04-06',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-04-04',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-04-11',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-04-18',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-04-25',
+                },
+                {
+                  title  : 'Etiquette Academy (Boys) 6:00 pm - 7:00 pm',
+                  start  : '2019-04-12',
+                },
+                {
+                  title  : 'Etiquette Academy (Girls) 10:00 am - 11:00 am',
+                  start  : '2019-04-13',
+                },
+                {
+                  title  : 'Golf Skills Development Camp 7:30 am - 12:30 pm Riviera Beach',
+                  start  : '2019-04-13',
+                },
+                {
+                  title  : 'Creativity Cloud 9:00 am - 12:00 pm library --- lunch',
+                  start  : '2019-04-19',
+                },
+                {
+                  title  : ' Anti-Bullying Memorial Walk, Intracoastal Park, Boynton Beach Airbus Aviation Day 7:30 am - 9:00 am',
+                  start  : '2019-04-27',
+                },
+
             ]
           });
 });
