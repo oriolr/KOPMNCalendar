@@ -649,6 +649,27 @@ $(function() {
               {
                 title  : 'Web Design Creativity Cloud 9:00 am - 12:00 pm',
                 start  : '2019-05-27',
+              },//End of May
+              // June
+              {
+                title  : 'Return from National Conference on Preventing Crime',
+                start  : '2019-06-01',
+              },
+              {
+                title  : 'Etiquette Academy (Boys) 6:00 pm - 7:00 pm',
+                start  : '2019-06-07',
+              },
+              {
+                title  : 'Etiquette Academy (Girls) 10:00 am - 11:00 am',
+                start  : '2019-06-07',
+              },
+              {
+                title  : 'Monday Masterpieces - Art',
+                start  : '2019-06-10',
+              },
+              {
+                title  : 'Elkettes -- Elks Lodge, 240 NE 4th Ave.',
+                start  : '2019-06-29',
               },
             ]
           });
