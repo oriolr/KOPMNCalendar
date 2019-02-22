@@ -386,10 +386,6 @@ $(function() {
                 start  : '2019-02-06',
               },
               {
-                title  : 'World Money Show, Orlando FL (High School only) Leave 6:00 pm',
-                start  : '2019-02-06',
-              },
-              {
                 title  : 'SWITCH 6:00 pm - 8:00 pm',
                 start  : '2019-02-13',
               },
@@ -466,6 +462,74 @@ $(function() {
                 {
                   title  : 'Rainberry Woods Initiative (Let’s Hang Out)  4:00 pm -5:00 pm Rainberry Woods Pool',
                   start  : '2019-02-24',
+                }, //End of February
+
+                //March
+                {
+                  title  : 'Oratorical Academy 9:00 am -12:00 pm Elks Lodge, 240 NE 4th Ave.  ',
+                  start  : '2019-03-02',
+                },
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-03-06',
+                },
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-03-13',
+                },
+                {
+                  title  : 'SWITCH 6:00 pm - 8:00 pm',
+                  start  : '2019-03-27',
+                },
+                {
+                  title  : 'Spring Break',
+                  start  : '2019-03-18',
+                  end    : '2019-03-22'
+                }, 
+                {
+                  title  : 'STREAM3 Camp',
+                  start  : '2019-03-18',
+                  end    : '2019-03-22'
+                }, 
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-03-07',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-03-14',
+                },
+                {
+                  title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                  start  : '2019-03-28',
+                },
+                {
+                  title  : 'Etiquette Academy (Boys) 6:00 pm - 7:00 pm',
+                  start  : '2019-03-08',
+                },
+                {
+                  title  : 'Food 4 Friends, Daughter of Zion SDA Church, 250 NW 3rd Ave. 8:00 am -12:00 pm',
+                  start  : '2019-03-09',
+                },
+                {
+                  title  : 'Parent Academy 9:00 am - 11:00 am',
+                  start  : '2019-03-09',
+                },
+                {
+                  title  : 'Etiquette Academy (Girls) 10:00 am - 11:00 am',
+                  start  : '2019-03-09',
+                },
+                {
+                  title  : 'Golf Skills Development Camp Riviera Beach 7:30 am - 12:30 pm ',
+                  start  : '2019-03-09',
+                },
+                {
+                  title  : 'Community Service Adopt A Street Cleanup',
+                  start  : '2019-03-16',
+                },
+                {
+                  title  : 'Elkettes - Elks Lodge, 240 NE 4th Ave.',
+                  start  : '2019-03-30',
                 },
             ]
           });
