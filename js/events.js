@@ -429,7 +429,7 @@ $(function() {
                 {
                   title  : 'World Money Show, Orlando FL Leave 5:30 p.m. Delray Beach Police Department',
                   start  : '2019-02-09',
-                  end    : '2019-02-10'
+                  end    : '2019-02-11'
                 },
                 {
                   title  : 'Etiquette Academy (Boys) 6:00 pm - 7:00 pm',
@@ -484,12 +484,12 @@ $(function() {
                 {
                   title  : 'Spring Break',
                   start  : '2019-03-18',
-                  end    : '2019-03-22'
+                  end    : '2019-03-23'
                 }, 
                 {
                   title  : 'STREAM3 Camp',
                   start  : '2019-03-18',
-                  end    : '2019-03-22'
+                  end    : '2019-03-23'
                 }, 
                 {
                   title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
@@ -587,8 +587,69 @@ $(function() {
                 {
                   title  : ' Anti-Bullying Memorial Walk, Intracoastal Park, Boynton Beach Airbus Aviation Day 7:30 am - 9:00 am',
                   start  : '2019-04-27',
-                },
-
+                },//End of April
+              //May
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-05-01',
+              },
+              {
+                title  : 'Lion King 6:00 pm',
+                start  : '2019-05-01',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-05-08',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-05-15',
+              },
+              {
+                title  : 'SWITCH 6:00 pm - 8:00 pm',
+                start  : '2019-05-22',
+              },
+              {
+                title  : 'National Conference on Preventing Crime',
+                start  : '2019-05-29',
+                end    : '2019-06-01'
+              },
+              {
+                title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                start  : '2019-05-02',
+              },
+              {
+                title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                start  : '2019-05-09',
+              },
+              {
+                title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High)',
+                start  : '2019-05-16',
+              },
+              {
+                title  : 'ArtsConnection Center for Creative Education   6:30 pm -8:30 pm (Middle & High) Graduation',
+                start  : '2019-05-23',
+              },
+              {
+                title  : 'Oratorical Academy 9:00 am - 12:00 pm (All)',
+                start  : '2019-05-04',
+              },
+              {
+                title  : 'Etiquette Academy (Boys) 6:00 pm - 7:00 pm',
+                start  : '2019-05-10',
+              },
+              {
+                title  : 'Etiquette Academy (Girls) 10:00 am - 11:00 am',
+                start  : '2019-05-11',
+              },
+              {
+                title  : 'Elkettes -- Elks Lodge, 240 NE 4th Ave.',
+                start  : '2019-05-25',
+              },
+              {
+                title  : 'Web Design Creativity Cloud 9:00 am - 12:00 pm',
+                start  : '2019-05-27',
+              },
             ]
           });
 });
